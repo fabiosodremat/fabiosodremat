@@ -6,12 +6,12 @@ I'm a mathematician and software developer interested in the intersection of **A
 
 I hold a PhD in Mathematics, with research focused on Analysis and Partial Differential Equations. I also have professional experience in software development and enjoy exploring computational approaches to complex mathematical and real-world problems.
 
-### 🎓 Education
+###  Education
 - PhD in Mathematics – Analysis and Partial Differential Equations
 - MSc in Mathematics – Analysis and Partial Differential Equations
 - BSc in Mathematics
 
-### 💻 Technologies & Tools
+###  Technologies & Tools
 
 **Programming Languages**
 - Python
@@ -41,7 +41,7 @@ I hold a PhD in Mathematics, with research focused on Analysis and Partial Diffe
 - Amazon Textract
 - Amazon DynamoDB
 
-### 🔬 Areas of Interest
+###  Areas of Interest
 - Data Science and Data Analysis
 - Artificial Intelligence and Machine Learning
 - Deep Learning and Neural Networks
@@ -49,9 +49,9 @@ I hold a PhD in Mathematics, with research focused on Analysis and Partial Diffe
 - Software Engineering
 - Scientific Computing
 
-### 🚀 Current Focus
+### Current Focus
 Exploring practical applications of Python, Machine Learning and Artificial Intelligence, combining mathematical foundations with software development.
 
-### 📫 Contact
+### Contact
 - Email: fabiosodremat@gmail.com
 - GitHub: [@fabiosodremat](https://github.com/fabiosodremat)
